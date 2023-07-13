@@ -1,0 +1,8 @@
+fastapi==0.98.0
+uvicorn
+requests
+deta==1.1.0
+PyJWT==2.7.0
+python-telegram-bot==20.3
+nest_asyncio
+Pillow
