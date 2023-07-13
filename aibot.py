@@ -196,7 +196,7 @@ async def main():
     # Add callback query handler for button clicks
     callback_handler = CallbackQueryHandler(callback)
     tapp.add_handler(callback_handler)
-    webhook_url = "https://artekreartwh-1-k6224123.deta.app/tbard/webhook"
+    webhook_url = "https://algoartbot.onrender.com/tbard/webhook"
     abot = tapp.bot#
     print(abot)
     #update = Update.de_json(json.loads('{"update_id":12345}'), tapp.bot)
